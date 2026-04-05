@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:20:21.232Z",
+  "generated_at": "2026-10-27T02:20:23.234Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -39,6 +39,84 @@
       "last_pushed_at": "2026-04-03T20:32:54.137Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-04-05T20:50:47.105Z",
+      "last_pushed_at": "2026-04-05T20:50:47.105Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-04-05T21:06:05.885Z",
+      "last_pushed_at": "2026-04-05T21:06:05.885Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-04-05T21:10:13.422Z",
+      "last_pushed_at": "2026-04-05T21:10:13.422Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:305": {
+      "kind": "problem",
+      "id": "305",
+      "title": "Implement Hard Voting Classifier",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/305",
+      "path": "problems/0305-implement-hard-voting-classifier",
+      "first_solved_at": "2026-04-05T21:25:05.564Z",
+      "last_pushed_at": "2026-04-05T21:25:05.564Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-04-05T21:36:01.057Z",
+      "last_pushed_at": "2026-04-05T21:36:01.057Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-04-05T21:45:31.542Z",
+      "last_pushed_at": "2026-04-05T21:45:31.542Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
