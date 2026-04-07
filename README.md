@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**19** solved · 19 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,13 +12,23 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-04-07 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-04-05 | [solution](problems/0104-binary-classification-with-logistic-regression) |
+| [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-04-07 | [solution](problems/0036-calculate-accuracy-score) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-04-05 | [solution](problems/0086-detect-overfitting-or-underfitting) |
+| [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-04-07 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-04-05 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-04-07 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Hard Voting Classifier](https://www.deep-ml.com/problems/305) | easy | 2026-04-05 | [solution](problems/0305-implement-hard-voting-classifier) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-04-07 | [solution](problems/0046-implement-precision-metric) |
+| [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-04-07 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
+| [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-04-07 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-04-07 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-04-05 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-04-05 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-04-03 | [solution](problems/0001-matrix-vector-dot-product) |
+| [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-04-07 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-04-07 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-04-03 | [solution](problems/0003-reshape-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-04-03 | [solution](problems/0002-transpose-of-a-matrix) |
 
