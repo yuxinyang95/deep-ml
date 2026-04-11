@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:20:24.961Z",
+  "generated_at": "2026-10-27T02:20:27.081Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -247,6 +247,58 @@
       "last_pushed_at": "2026-04-07T21:02:22.392Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-04-11T19:31:28.299Z",
+      "last_pushed_at": "2026-04-11T19:31:28.299Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-04-11T19:36:45.201Z",
+      "last_pushed_at": "2026-04-11T19:36:45.201Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-04-11T19:48:39.958Z",
+      "last_pushed_at": "2026-04-11T19:48:39.958Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2026-04-11T20:43:17.272Z",
+      "last_pushed_at": "2026-04-11T20:43:17.272Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
