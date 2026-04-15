@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 40 problems · 0 labs · 0 math
+**42** solved · 42 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-04-14 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-04-14 | [solution](problems/0310-taylor-series-approximation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-04-03 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-04-15 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-04-15 | [solution](problems/0017-k-means-clustering) |
 
 ---
 
