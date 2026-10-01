@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 42 problems · 0 labs · 0 math
+**59** solved · 50 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-04-07 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-04-05 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-04-07 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-10-01 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-04-12 | [solution](problems/0073-calculate-dice-score-for-classification) |
 | [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2026-04-12 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-04-11 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
@@ -22,7 +23,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-04-11 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-04-11 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-04-14 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-01 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-04-05 | [solution](problems/0086-detect-overfitting-or-underfitting) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-01 | [solution](problems/0083-dot-product-calculator) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-04-14 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2026-04-14 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-04-07 | [solution](problems/0016-feature-scaling-implementation) |
@@ -48,12 +51,31 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-04-07 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-04-03 | [solution](problems/0003-reshape-matrix) |
 | [RL Training Experiment Tracking](https://www.deep-ml.com/problems/679) | easy | 2026-04-14 | [solution](problems/0679-rl-training-experiment-tracking) |
+| [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-01 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-04-12 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-04-14 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-04-14 | [solution](problems/0310-taylor-series-approximation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-04-03 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-01 | [solution](problems/0121-vector-element-wise-sum) |
+| [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-01 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-04-15 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-04-15 | [solution](problems/0017-k-means-clustering) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-01 | [solution](problems/0009-matrix-times-matrix) |
+| [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-01 | [solution](problems/0312-quotient-rule-for-derivatives) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-10-01 | [solution](math/0001-derivatives-and-gradients) |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-10-01 | [solution](math/0018-descriptive-statistics) |
+| [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-10-01 | [solution](math/0033-expectation-and-variance-algebra) |
+| [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-01 | [solution](math/0005-gradient-descent-updates) |
+| [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-01 | [solution](math/0009-matrix-basics) |
+| [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-01 | [solution](math/0019-probability-fundamentals) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-01 | [solution](math/0007-vector-operations) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-01 | [solution](math/0010-matrix-multiplication) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-01 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
 
