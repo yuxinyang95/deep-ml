@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:20:39.875Z",
+  "generated_at": "2026-10-27T02:20:41.481Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -856,6 +856,69 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-10-03T18:53:05.474Z",
       "last_pushed_at": "2026-10-03T18:53:05.474Z"
+    },
+    "math:17": {
+      "kind": "math",
+      "id": "17",
+      "title": "Covariance and Correlation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/17",
+      "path": "math/0017-covariance-and-correlation",
+      "first_solved_at": "2026-10-04T19:21:37.029Z",
+      "last_pushed_at": "2026-10-04T19:21:37.029Z"
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-10-04T19:28:52.088Z",
+      "last_pushed_at": "2026-10-04T19:28:52.088Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-10-04T19:32:02.738Z",
+      "last_pushed_at": "2026-10-04T19:32:02.738Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-10-04T19:45:43.391Z",
+      "last_pushed_at": "2026-10-04T19:45:43.391Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-10-04T19:48:23.305Z",
+      "last_pushed_at": "2026-10-04T19:48:23.305Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
